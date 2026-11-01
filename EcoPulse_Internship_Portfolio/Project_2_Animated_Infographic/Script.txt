@@ -1,0 +1,35 @@
+ECOPULSE — E-WASTE: DON'T TRASH THE FUTURE
+Target duration: 55 seconds
+Format: 1920 x 1080, 16:9, 30 fps
+Tone: optimistic, clear, action-oriented
+
+[0–6s | Hook]
+Narrator: “Where do your old electronics go?”
+On-screen: WHERE DO YOUR OLD ELECTRONICS GO?
+
+[6–18s | The scale]
+Narrator: “In 2022, the world generated 62 million tonnes of electronic waste.”
+On-screen: 62 MILLION TONNES
+Small caption: Global e-waste generated in 2022
+
+[18–30s | The gap]
+Narrator: “But only 22.3 percent was documented as formally collected and recycled.”
+On-screen: ONLY 22.3% DOCUMENTED AS COLLECTED & RECYCLED
+Small caption: Global E-waste Monitor 2024
+
+[30–47s | What we can do]
+Narrator: “You can help. Repair and reuse devices when possible. Donate working electronics. And take unwanted devices to an authorized e-waste collection channel.”
+On-screen cards: REPAIR & REUSE / DONATE WORKING DEVICES / RECYCLE RESPONSIBLY
+
+[47–55s | Call to action]
+Narrator: “Give your old electronics a responsible next life. EcoPulse — small actions, greener future.”
+On-screen: GIVE YOUR ELECTRONICS A RESPONSIBLE NEXT LIFE
+EcoPulse — Small Actions. Greener Future.
+
+SOURCE
+International Telecommunication Union and United Nations Institute for Training and Research,
+The Global E-waste Monitor 2024. Statistics refer to 2022 global data.
+https://ewastemonitor.info/
+https://www.itu.int/en/mediacentre/Pages/PR-2024-03-20-e-waste-recycling.aspx
+
+Production note: The included MP4 is a simple motion-graphics prototype with animated text and shapes. Replace or supplement with a recorded voice-over and licensed music if your internship reviewer expects full audio production.
